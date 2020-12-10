@@ -1,7 +1,3 @@
-[enlightenment]
-SigLevel = Optional TrustAll
-Server = https://download.enlightenment.org/distros/arch/archlinux/arch/$arch/$repo
-
 [archlinuxfr]
 SigLevel = Never
 Server = http://repo.archlinux.fr/$arch
