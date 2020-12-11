@@ -61,7 +61,7 @@
 - Select ```No``` to save log
 - Remove USB stick, CD, etc and reboot
 ---
-- In the OS open terminal and type ```rm .b* .z
+- In the OS open terminal and type ```rm .b* .z*```
 - If you don't have a ```sddm.conf``` in you ```/etc/``` folder type the following in your terminal:
 - Type ```sddm --example-config | sudo tee /etc/sddm.conf```
 - Then edit it and set ```MinimumVT``` to 7, save and quit
