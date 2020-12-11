@@ -1,3 +1,5 @@
+### Architect Manjaro
+---
 - Login and start ```setup```
 - Select Language
 - Select ```Prepare Instalation```
