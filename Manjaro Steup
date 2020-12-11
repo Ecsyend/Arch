@@ -37,6 +37,7 @@ Packages:
 ```firefox-developer-edition```
 ```ttf-fira-code```
 ```yakuake```
+```phonon-qt5-vlc```
 Select the ```minimal``` version
 Select ```Auto-install proprietary drivers```
 Select ```Install Bootloader```, select ```grub``` and select ```yes``` to set as default bootloader
